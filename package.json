@@ -1,0 +1,27 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "a web development playground",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pmacmillan/playground"
+  },
+  "author": "Peter MacMillan <peter@macmillan.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pmacmillan/playground/issues"
+  },
+  "homepage": "https://github.com/pmacmillan/playground",
+  "dependencies": {
+    "errorhandler": "^1.0.1",
+    "express": "^4.3.1",
+    "express-less": "0.0.3",
+    "express-livereload": "0.0.24",
+    "jade": "^1.3.1"
+  }
+}
